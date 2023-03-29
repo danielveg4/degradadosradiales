@@ -1,0 +1,54 @@
+body {
+  background-color: #1e202a;
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.flag {
+  display: inline-block;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+  background-color: #292b38;
+}
+
+.bandera1 {
+  background-image: radial-gradient(250px, red 25%, white 25%);
+}
+
+.bandera2 {
+  background-image: radial-gradient(
+    250px at 100px 100px,
+    yellow 25%,
+    rgb(95, 121, 205) 25%
+  );
+}
+
+.bandera3 {
+  background-image: radial-gradient(180px, white 25%, transparent 25%),
+    linear-gradient(to top, red 50px, rgb(23, 23, 145) 50px 150px, red 150px);
+}
+
+.bandera4 {
+  background-image: radial-gradient(
+    100px at 150px 200px,
+    transparent 0px 10px,
+    red 10px 20px,
+    orange 20px 40px,
+    yellow 40px 60px,
+    green 60px 80px,
+    blue 80px 100px,
+    rgb(10, 10, 146) 100px 120px,
+    rgb(251, 68, 199) 120px 140px,
+    transparent 140px
+  );
+}
