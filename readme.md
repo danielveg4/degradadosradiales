@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](Uhttps://danielveg4.github.io/degradadosradiales/)
+- [Vista en vivo](https://danielveg4.github.io/degradadosradiales/)
 
 ## Descripción 📑
 
