@@ -1,11 +1,10 @@
 # Título del proyecto
 
-![Vista en vivo](https://danielveg4.github.io/degradadosradiales/)
+![Vista previa](https://raw.githubusercontent.com/danielveg4/degradadosradiales/main/screenshots/vistaprevia.png)
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
-- [URL-de-la-api](URL-de-la-api)
+- [Vista en vivo](Uhttps://danielveg4.github.io/degradadosradiales/)
 
 ## Descripción 📑
 
