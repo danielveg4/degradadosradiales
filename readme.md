@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Vista en vivo](hhttps://danielveg4.github.io/degradadosradiales/)
 
 ## Ejemplo en vivo
 
