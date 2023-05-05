@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Vista en vivo](hhttps://danielveg4.github.io/degradadosradiales/)
+![Vista en vivo](https://danielveg4.github.io/degradadosradiales/)
 
 ## Ejemplo en vivo
 
